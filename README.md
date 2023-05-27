@@ -1,6 +1,33 @@
 # 💫 About Me:
-Webmaster @ IEEE SAC Egypt<br>Former Head of IT (2021/2022) @ IEEE AAST Alexandria Student Branch<br>Head of Media @ IEEE Egyptian Students and Young Professionals Congress<br>Head of Media @ Entrepreneurship Students Society<br>Head of IT @ IEEE LYC 2023<br><br>Currently working on -> IEEE LYC Web & Mobile App<br><br>Ambitious, Fast & self learner, Love Football, Eager to learn more for the love of technology.
 
+Webmaster @ IEEE SAC Egypt<br>
+Webmaster @ IEEE Computer Society<br>
+Former Head of IT (2021/2022) @ IEEE AAST Alexandria Student Branch<br>
+Vice-Head of Media @ IEEE Egyptian Students and Young Professionals Congress<br>
+Head of Media @ Entrepreneurship Students Society<br>
+Head of IT @ IEEE LYC 2023<br>
+
+Ambitious, Fast & self learner, Love Football, Eager to learn more for the love of technology.
+
+Currently working on:
+- IEEE LYC Web & Mobile App
+- Smart Warehouse System Mobile App
+- Boat Reservation Service Web App
+- IEEE SAC Egypt Web App
+- IEEE Computer Society Students & Young Professionals Congress WordPress Website
+
+## ✅ Published Private Projects
+
+- [Entrepreneurship Students Society Abu Qir](https://essabuqir.web.app)
+- [IEEE AAST Alexandria Student Branch's website](https://ieeeaast.org)
+- [Boat Reservation Service](https://boat-service-d064a.web.app/)
+- [IEEE ESYP](https://esyp.ieee.org.eg/)
+- [Netflix Clone](https://netflix-clone-ab9a2.web.app/)
+- [Weather App](https://weather-app-c74d3.web.app/)
+
+## 📁 Archived Private Projects (Might return back to life in the future)
+
+- [MSI Keyboard Typing Speed Contest](https://msi.ieeeaast.org)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bewenben) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3omaarkhaled) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bewenben) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Bewenben) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/3omaarkhaledd) 
