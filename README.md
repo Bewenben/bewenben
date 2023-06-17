@@ -1,4 +1,4 @@
-# 💫 About Me:
+![home-min](https://github.com/Bewenben/bewenben/assets/67380528/13758b41-69e7-401d-809d-fb90180447c8)# 💫 About Me:
 
 Webmaster @ IEEE SAC Egypt<br>
 Webmaster @ IEEE Computer Society<br>
@@ -20,10 +20,12 @@ Currently working on:
 
 - [Entrepreneurship Students Society Abu Qir](https://essabuqir.web.app)
 - [IEEE AAST Alexandria Student Branch's website](https://ieeeaast.org)
-- [Boat Reservation Service](https://boat-service-d064a.web.app/)
-- [IEEE ESYP](https://esyp.ieee.org.eg/)
-- [Netflix Clone](https://netflix-clone-ab9a2.web.app/)
-- [Weather App](https://weather-app-c74d3.web.app/)
+- [Boat Reservation Service Web App](https://boat-service-d064a.web.app/)
+- [IEEE ESYP Web App](https://esyp.ieee.org.eg/)
+- [Netflix Clone Web App](https://netflix-clone-ab9a2.web.app/)
+- [Weather Web App](https://weather-app-c74d3.web.app/)
+- [Smarty IoT Android App](https://appdistribution.firebase.dev/i/899a129994993796)
+- [Warehouse Security System](https://appdistribution.firebase.dev/i/7e4a72799f83ebd3)
 
 ## 📁 Archived Private Projects (Might return back to life in the future)
 
