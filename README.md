@@ -1,4 +1,4 @@
-![home-min](https://github.com/Bewenben/bewenben/assets/67380528/13758b41-69e7-401d-809d-fb90180447c8)# 💫 About Me:
+# 💫 About Me:
 
 Webmaster @ IEEE SAC Egypt<br>
 Webmaster @ IEEE Computer Society<br>
