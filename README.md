@@ -12,9 +12,9 @@ Ambitious, Fast & self learner, Love Football, Eager to learn more for the love 
 Currently working on:
 - IEEE LYC Web & Mobile App
 - Smart Warehouse System Mobile App
-- Boat Reservation Service Web App
 - IEEE SAC Egypt Web App
 - IEEE Computer Society Students & Young Professionals Congress WordPress Website
+- IEEE Region 8 SAC WordPress Website
 
 ## ✅ Published Private Projects
 
