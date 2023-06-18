@@ -9,7 +9,7 @@ Webmaster @ IEEE Computer Society<br>
 Former Head of IT (2021/2022) @ IEEE AAST Alexandria Student Branch<br>
 Vice-Head of Media @ IEEE Egyptian Students and Young Professionals Congress<br>
 Head of Media @ Entrepreneurship Students Society<br>
-Head of IT & Media @ IEEE LYC 2023<br>
+Head of IT & Media @ IEEE LYC 2024<br>
 
 Ambitious, Fast & self learner, Love Football, Eager to learn more for the love of technology.
 
