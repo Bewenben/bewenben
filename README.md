@@ -29,7 +29,7 @@ Currently working on:
 - [Netflix Clone Web App](https://netflix-clone-ab9a2.web.app/)
 - [Weather Web App](https://weather-app-c74d3.web.app/)
 - [Smarty IoT Android App](https://appdistribution.firebase.dev/i/899a129994993796)
-- [Warehouse Security System](https://appdistribution.firebase.dev/i/7e4a72799f83ebd3)
+- [Warehouse Security System Mobile App](https://appdistribution.firebase.dev/i/7e4a72799f83ebd3)
 
 ## 📁 Archived Private Projects (Might return back to life in the future)
 
