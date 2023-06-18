@@ -14,8 +14,7 @@ Head of IT & Media @ IEEE LYC 2024<br>
 Ambitious, Fast & self learner, Love Football, Eager to learn more for the love of technology.
 
 Currently working on:
-- IEEE LYC Web App
-- Smart Warehouse System Mobile App
+- IEEE LYC Web & Mobile App
 - IEEE SAC Egypt Web App
 - IEEE Computer Society Students & Young Professionals Congress WordPress Website
 - IEEE Region 8 SAC WordPress Website
