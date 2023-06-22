@@ -3,23 +3,29 @@
 
 # 💫 About Me:
 
-Webmaster @ IEEE SAC Egypt<br>
-Webmaster @ IEEE Region 8 Ad-hoc Web Development<br>
-Webmaster @ IEEE Computer Society<br>
-Former Head of IT (2021/2022) @ IEEE AAST Alexandria Student Branch<br>
-Vice-Head of Media @ IEEE Egyptian Students and Young Professionals Congress<br>
-Head of Media @ Entrepreneurship Students Society<br>
-Head of IT & Media @ IEEE LYC 2024<br>
-
 Ambitious, Fast & self learner, Love Football, Eager to learn more for the love of technology.
 
-Currently working on:
-- IEEE LYC Web & Mobile App
-- IEEE SAC Egypt Web App
+## 🎖️ Volunteering Work:
+
+- Webmaster @ IEEE Region 8 Ad-hoc Web Development **(June 2023 - Present)**<br>
+- Webmaster @ IEEE Computer Society **(April 2023 - Present)**<br>
+- Webmaster @ IEEE SAC Egypt **(February 2023 - Present)**<br>
+- Head of IT & Media @ IEEE LYC 2024 **(February 2023 - Present)**<br>
+- Head of Media @ Entrepreneurship Students Society **(September 2022 - Present)**<br>
+- Vice-Head of Media @ IEEE Egyptian Students and Young Professionals Congress **(August 2022 - Present)**<br>
+- Head of IT (2021/2022) @ IEEE AAST Alexandria Student Branch **(September 2021 - September 2022)**<br>
+- Volunteer @ IEEE AAST Alexandria Student Branch **(September 2020 - Present)**<br>
+
+## 🛠️ Currently working on:
+
+- IEEE LYC Web using React
+- IEEE LYC Mobile using Flutter
+- IEEE SAC Egypt Web App using Next.js
 - IEEE Computer Society Students & Young Professionals Congress WordPress Website
 - IEEE Region 8 SAC WordPress Website
+- Portfolio Website using Next.js
 
-## ✅ Published Private Projects
+## ✅ Published Private Projects:
 
 - [Entrepreneurship Students Society Abu Qir](https://essabuqir.web.app)
 - [IEEE AAST Alexandria Student Branch's website](https://ieeeaast.org)
@@ -47,9 +53,6 @@ Currently working on:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bewenben&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=3omaarkhaledd)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
@@ -58,5 +61,9 @@ Currently working on:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bewenben&icon=0&color=1)](https://visitcount.itsvg.in)
+
+# 📧 Contact Me:
+
+- [omarkhaled@ieee.org](mailto:omarkhaled@ieee.org)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
