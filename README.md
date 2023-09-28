@@ -4,11 +4,12 @@ Ambitious, Fast & self learner, Love Football, Eager to learn more for the love 
 
 ## 🎖️ Volunteering Work:
 
+- Chairman @ IEEE AAST Alexandria Student Branch **(September 2023 - Present)**<br>
 - Webmaster @ IEEE Region 8 Ad-hoc Web Development **(June 2023 - Present)**<br>
-- Webmaster @ IEEE Computer Society **(April 2023 - Present)**<br>
+- Webmaster @ IEEE Computer Society SYP Malaysia 2023 **(April 2023 - October 2023)**<br>
 - Webmaster @ IEEE SAC Egypt **(February 2023 - Present)**<br>
 - Head of IT & Media @ IEEE LYC 2024 **(February 2023 - Present)**<br>
-- Head of Media @ Entrepreneurship Students Society **(September 2022 - Present)**<br>
+- Head of Media @ Entrepreneurship Students Society Abu Qir **(September 2022 - September 2023)**<br>
 - Vice-Head of Media @ IEEE Egyptian Students and Young Professionals Congress **(August 2022 - Present)**<br>
 - Head of IT (2021/2022) @ IEEE AAST Alexandria Student Branch **(September 2021 - September 2022)**<br>
 - Volunteer @ IEEE AAST Alexandria Student Branch **(September 2020 - Present)**<br>
@@ -18,24 +19,21 @@ Ambitious, Fast & self learner, Love Football, Eager to learn more for the love 
 - IEEE LYC Web using React
 - IEEE LYC Mobile using Flutter
 - IEEE SAC Egypt Web App using Next.js
-- IEEE Computer Society Students & Young Professionals Congress WordPress Website
 - IEEE Region 8 SAC WordPress Website
 - Portfolio Website using Next.js
 
 ## ✅ Published Private Projects:
 
-- [Entrepreneurship Students Society Abu Qir](https://essabuqir.web.app)
+- [IEEE ESYP Web App](https://esyp.ieee.org.eg/)
 - [IEEE AAST Alexandria Student Branch's website](https://ieeeaast.org)
 - [Boat Reservation Service Web App](https://boat-service-d064a.web.app/)
-- [IEEE ESYP Web App](https://esyp.ieee.org.eg/)
-- [Netflix Clone Web App](https://netflix-clone-ab9a2.web.app/)
+- [Entrepreneurship Students Society Abu Qir](https://essabuqir.web.app)
 - [Weather Web App](https://weather-app-c74d3.web.app/)
+- [Netflix Clone Web App](https://netflix-clone-ab9a2.web.app/)
 - [Smarty IoT Android App](https://appdistribution.firebase.dev/i/899a129994993796)
 - [Warehouse Security System Flutter App](https://appdistribution.firebase.dev/i/7e4a72799f83ebd3)
-
-## 📁 Archived Private Projects (Might return back to life in the future)
-
-- [MSI Keyboard Typing Speed Contest](https://msi.ieeeaast.org)
+- [MSI Keyboard Typing Speed Contest](https://keyboard-update-data-contest.web.app/)
+- [IEEE Computer Society Students & Young Professionals Congress WordPress Website](https://syp.computer.org/sypc/)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bewenben) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3omaarkhaled) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bewenben) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Bewenben) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/3omaarkhaledd) 
