@@ -1,10 +1,11 @@
 # 💫 About Me:
 
-Ambitious, Fast & self learner, Love Football, Eager to learn more for the love of technology.
+Ambitious, Fast & self-learner, Love Football, and Eager to learn more for the love of technology.
 
 ## 🎖️ Volunteering Work:
 
 - Chairman @ IEEE AAST Alexandria Student Branch **(September 2023 - Present)**<br>
+- Vice-Chairman @ IEEE 1st Egyptian Student Paper Contest **(September 2023 - Present)**<br>
 - Webmaster @ IEEE Region 8 Ad-hoc Web Development **(June 2023 - Present)**<br>
 - Webmaster @ IEEE Computer Society SYP Malaysia 2023 **(April 2023 - October 2023)**<br>
 - Webmaster @ IEEE SAC Egypt **(February 2023 - Present)**<br>
@@ -16,11 +17,10 @@ Ambitious, Fast & self learner, Love Football, Eager to learn more for the love 
 
 ## 🛠️ Currently working on:
 
-- IEEE LYC Web using React
-- IEEE LYC Mobile using Flutter
-- IEEE SAC Egypt Web App using Next.js
-- IEEE Region 8 SAC WordPress Website
-- Portfolio Website using Next.js
+- SkyDrift (Drone-based) Mobile App using Flutter
+- SkyDrift (Drone-based) Web App using Next.js 14
+- IEEE LYC Mobile App using Flutter
+- IEEE SAC Egypt Web App using Next.js 13
 
 ## ✅ Published Private Projects:
 
