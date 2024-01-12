@@ -24,6 +24,7 @@ Ambitious, Fast & self-learner, Love Football, and Eager to learn more for the l
 
 ## ✅ Published Private Projects:
 
+- [IEEE SAC Egypt Web App](https://sac.ieee.org.eg/)
 - [IEEE ESYP Web App](https://esyp.ieee.org.eg/)
 - [IEEE AAST Alexandria Student Branch's website](https://ieeeaast.org)
 - [Boat Reservation Service Web App](https://boat-service-d064a.web.app/)
