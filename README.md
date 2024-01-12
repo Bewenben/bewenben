@@ -4,7 +4,7 @@ Ambitious, Fast & self-learner, Love Football, and Eager to learn more for the l
 
 ## 🎖️ Volunteering Work:
 
-- Chairman @ IEEE AAST Alexandria Student Branch **(September 2023 - Present)**<br>
+- Chairman @ IEEE AAST Alexandria Student Branch **(September 2023 - September 2024)**<br>
 - Vice-Chairman @ IEEE 1st Egyptian Student Paper Contest **(September 2023)**<br>
 - Webmaster @ IEEE Region 8 Ad-hoc Web Development **(June 2023 - Present)**<br>
 - Webmaster @ IEEE Computer Society SYP Malaysia 2023 **(April 2023 - October 2023)**<br>
