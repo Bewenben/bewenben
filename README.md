@@ -20,7 +20,6 @@ Ambitious, Fast & self-learner, Love Football, and Eager to learn more for the l
 - SkyDrift (Drone-based) Mobile App using Flutter
 - SkyDrift (Drone-based) Web App using Next.js 14
 - IEEE LYC Mobile App using Flutter
-- IEEE SAC Egypt Web App using Next.js 13
 
 ## ✅ Published Private Projects:
 
