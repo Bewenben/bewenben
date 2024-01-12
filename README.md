@@ -5,13 +5,13 @@ Ambitious, Fast & self-learner, Love Football, and Eager to learn more for the l
 ## 🎖️ Volunteering Work:
 
 - Chairman @ IEEE AAST Alexandria Student Branch **(September 2023 - Present)**<br>
-- Vice-Chairman @ IEEE 1st Egyptian Student Paper Contest **(September 2023 - Present)**<br>
+- Vice-Chairman @ IEEE 1st Egyptian Student Paper Contest **(September 2023)**<br>
 - Webmaster @ IEEE Region 8 Ad-hoc Web Development **(June 2023 - Present)**<br>
 - Webmaster @ IEEE Computer Society SYP Malaysia 2023 **(April 2023 - October 2023)**<br>
 - Webmaster @ IEEE SAC Egypt **(February 2023 - Present)**<br>
 - Head of IT & Media @ IEEE LYC 2024 **(February 2023 - Present)**<br>
-- Head of Media @ Entrepreneurship Students Society Abu Qir **(September 2022 - September 2023)**<br>
-- Vice-Head of Media @ IEEE Egyptian Students and Young Professionals Congress **(August 2022 - Present)**<br>
+- Head of IT & Media @ Entrepreneurship Students Society Abu Qir **(September 2022 - September 2023)**<br>
+- Vice-Head of Media and Marketing @ IEEE Egyptian Students and Young Professionals Congress **(August 2022 - Present)**<br>
 - Head of IT (2021/2022) @ IEEE AAST Alexandria Student Branch **(September 2021 - September 2022)**<br>
 - Volunteer @ IEEE AAST Alexandria Student Branch **(September 2020 - Present)**<br>
 
