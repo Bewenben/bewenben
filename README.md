@@ -2,27 +2,26 @@
 
 Ambitious, Fast & self-learner, Love Football, and Eager to learn more for the love of technology.
 
+## 🧑‍💻 Work Experience:
+
+- Junior Software Engineer @ D&Partners **(September 2023
+
 ## 🎖️ Volunteering Work:
 
-- Chairman @ IEEE AAST Alexandria Student Branch **(September 2023 - September 2024)**<br>
-- Vice-Chairman @ IEEE 1st Egyptian Student Paper Contest **(September 2023)**<br>
-- Webmaster @ IEEE Region 8 Ad-hoc Web Development **(June 2023 - Present)**<br>
-- Webmaster @ IEEE Computer Society SYP Malaysia 2023 **(April 2023 - October 2023)**<br>
-- Webmaster @ IEEE SAC Egypt **(February 2023 - Present)**<br>
-- Head of IT & Media @ IEEE LYC 2024 **(February 2023 - Present)**<br>
-- Head of IT & Media @ Entrepreneurship Students Society Abu Qir **(September 2022 - September 2023)**<br>
-- Vice-Head of Media and Marketing @ IEEE Egyptian Students and Young Professionals Congress **(August 2022 - Present)**<br>
-- Head of IT (2021/2022) @ IEEE AAST Alexandria Student Branch **(September 2021 - September 2022)**<br>
-- Volunteer @ IEEE AAST Alexandria Student Branch **(September 2020 - Present)**<br>
-
-## 🛠️ Currently working on:
-
-- SkyDrift (Drone-based) Mobile App using Flutter
-- SkyDrift (Drone-based) Web App using Next.js 14
-- IEEE LYC Mobile App using Flutter
+- Chairman @ IEEE AAST Alexandria Student Branch **(Sep 2023 - Sep 2024)**<br>
+- Vice-Chairman @ IEEE 1st Egyptian Student Paper Contest **(Sep 2023)**<br>
+- Webmaster @ IEEE Region 8 Ad-hoc Web Development **(Jun 2023 - Feb 2024)**<br>
+- Webmaster @ IEEE Computer Society SYP Malaysia 2023 **(Apr 2023 - Oct 2023)**<br>
+- Webmaster @ IEEE SAC Egypt **(Feb 2023 - Present)**<br>
+- Head of IT & Media @ Entrepreneurship Students Society Abu Qir **(Sep 2022 - Sep 2023)**<br>
+- Vice-Head of Media and Marketing @ IEEE Egyptian Students and Young Professionals Congress **(Aug 2022 - Sep 2022)**<br>
+- Head of IT (2021/2022) @ IEEE AAST Alexandria Student Branch **(Sep 2021 - Sep 2022)**<br>
+- Volunteer @ IEEE AAST Alexandria Student Branch **(Sep 2020 - Sep 2024)**<br>
 
 ## ✅ Published Private Projects:
 
+- [PodMedia Network](https://podmedia.network)
+- [Scitecs](https://scitecs.com)
 - [IEEE SAC Egypt Web App](https://sac.ieee.org.eg/)
 - [IEEE ESYP Web App](https://esyp.ieee.org.eg/)
 - [IEEE AAST Alexandria Student Branch's website](https://ieeeaast.org)
