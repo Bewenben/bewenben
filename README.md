@@ -4,7 +4,7 @@ Ambitious, Fast & self-learner, Love Football, and Eager to learn more for the l
 
 ## 🧑‍💻 Work Experience:
 
-- Junior Software Engineer @ D&Partners **(September 2023
+- Junior Software Engineer @ D&Partners **(Sep 2023 - Present)**
 
 ## 🎖️ Volunteering Work:
 
