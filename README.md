@@ -20,8 +20,8 @@ Ambitious, Fast & self-learner, Love Football, and Eager to learn more for the l
 
 ## ✅ Published Private Projects:
 
-- [PodMedia Network](https://podmedia.network)
-- [Scitecs](https://scitecs.com)
+- [PodMedia Network Web App](https://podmedia.network)
+- [Scitecs Web App](https://scitecs.com)
 - [IEEE SAC Egypt Web App](https://sac.ieee.org.eg/)
 - [IEEE ESYP Web App](https://esyp.ieee.org.eg/)
 - [IEEE AAST Alexandria Student Branch's website](https://ieeeaast.org)
