@@ -4,7 +4,7 @@ Ambitious, Fast & self-learner, Love Football, and Eager to learn more for the l
 
 ## 🧑‍💻 Work Experience:
 
-- Junior Software Engineer @ D&Partners **(Sep 2023 - Present)**
+- Junior Software Engineer @ PodMedia.Network **(Sep 2023 - Present)**
 
 ## 🎖️ Volunteering Work:
 
@@ -17,6 +17,10 @@ Ambitious, Fast & self-learner, Love Football, and Eager to learn more for the l
 - Vice-Head of Media and Marketing @ IEEE Egyptian Students and Young Professionals Congress **(Aug 2022 - Sep 2022)**<br>
 - Head of IT (2021/2022) @ IEEE AAST Alexandria Student Branch **(Sep 2021 - Sep 2022)**<br>
 - Volunteer @ IEEE AAST Alexandria Student Branch **(Sep 2020 - Sep 2024)**<br>
+
+## 🛠️ Currently Working On:
+
+- Venttat KSA Web App
 
 ## ✅ Published Private Projects:
 
