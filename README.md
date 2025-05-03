@@ -20,11 +20,12 @@ Ambitious, Fast & self-learner, Love Football, and Eager to learn more for the l
 
 ## 🛠️ Currently Working On:
 
-- Venttat KSA Web App
+- PodMedia Network WordPress Website (Updates)
 
 ## ✅ Published Private Projects:
 
-- [PodMedia Network Web App](https://podmedia.network)
+- [Venttat KSA Web App (soon on https://venttat.sa/en)](https://venttat.vercel.app/en)
+- [PodMedia Network WordPress Website](https://podmedia.network)
 - [Scitecs Web App](https://scitecs.com)
 - [IEEE SAC Egypt Web App](https://sac.ieee.org.eg/)
 - [IEEE ESYP Web App](https://esyp.ieee.org.eg/)
