@@ -4,7 +4,7 @@ Ambitious, Fast & self-learner, Love Football, and Eager to learn more for the l
 
 ## 🧑‍💻 Work Experience:
 
-- Junior Software Engineer @ PodMedia.Network **(Sep 2023 - Present)**
+- Junior Software Engineer @ The Connector **(Sep 2023 - Present)**
 
 ## 🎖️ Volunteering Work:
 
